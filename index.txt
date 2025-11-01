@@ -1,0 +1,55 @@
+shaiksameer_portfolio
+A multi-domain portfolio showcasing my work as a Backend Developer, Data Engineer, and Network Security Engineer — featuring projects, skills, and certifications.
+
+👋 Hi, I'm Shaik Sameer
+🚀 Backend Developer | Data Engineer | Network Security Enthusiast
+💡 Passionate about building scalable systems, securing networks, and transforming raw data into insights.
+
+🧠 About Me
+I’m a versatile IT professional skilled in Backend Development, Data Engineering, and Network Security.
+I enjoy designing scalable systems, building data pipelines, and implementing secure network architectures that help businesses make smarter, data-driven decisions.
+
+🧰 Technical Skills
+Programming: Java, Python, SQL
+Frameworks: Spring Boot, Hibernate, RESTful APIs
+Data Engineering: Apache Spark, Kafka, Airflow, Power BI, Tableau
+Databases: MySQL, PostgreSQL, MongoDB, AWS Redshift
+Networking & Security: Cisco ASA, Palo Alto, VPN, IDS/IPS, OSPF, BGP
+Cloud: AWS (S3, EC2, Lambda, Glue, Redshift), GCP (Basics)
+Version Control: Git, GitHub
+
+🏗️ Projects
+🔹 Real-Time Sales Data Pipeline Dashboard
+Data Engineering | Apache Kafka | AWS | Power BI
+
+Designed and implemented a real-time data pipeline using Kafka and Spark Streaming.
+Built ETL workflows for data ingestion and transformation, stored data in AWS S3 and Redshift, and visualized KPIs in Power BI.
+🔹 Network Security and Firewall Implementation
+Networking | Cisco ASA | Palo Alto | IDS/IPS
+
+Configured firewalls, VPNs, and IDS/IPS systems to secure enterprise networks.
+Used Wireshark to analyze network traffic and detect anomalies.
+🔹 Student Academic Management System
+Full Stack Development | Java | Spring Boot | MySQL
+
+Built a Java full-stack system to manage student performance and training.
+Designed REST APIs and optimized backend performance using Hibernate and MySQL.
+🎓 Certifications
+🏅 AWS Certified Developer – Associate
+🏅 Red Hat Certified Enterprise Application Developer
+🏅 Wipro TalentNext Java Full Stack Certification
+🎓 Education
+KL University (2024)
+Bachelor of Technology in Computer Science and Engineering
+CGPA: 9.12
+
+💬 Soft Skills
+Communication • Team Collaboration • Leadership • Problem Solving • Critical Thinking
+
+📫 Contact Me
+📍 Hyderabad, India
+📧 sameerspy07@gmail.com
+🔗 LinkedIn | GitHub
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me for collaboration opportunities!
