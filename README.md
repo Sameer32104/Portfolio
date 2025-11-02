@@ -24,9 +24,9 @@ It’s a responsive and interactive portfolio built using **HTML, CSS, and JavaS
 ---
 
 ## 🌍 Connect with Me
-- **GitHub:** [https://github.com/Sameer32104](https://github.com/Sameer32104)  
-- **LinkedIn:** [https://www.linkedin.com/in/sameer07/](https://www.linkedin.com/in/sameer07/)  
-- **Email:** (you can add your preferred one here)
+- **GitHub:**(https://github.com/Sameer32104)  
+- **LinkedIn:** (https://www.linkedin.com/in/sameer07/)  
+- **Email:** sameershaik1660@gmail.com
 
 ---
 
@@ -34,3 +34,4 @@ It’s a responsive and interactive portfolio built using **HTML, CSS, and JavaS
 This portfolio project is open source under the **MIT License** — feel free to use or modify it with attribution.
 
 © 2025 **Shaik Sameer**
+
